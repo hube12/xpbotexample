@@ -1,0 +1,17 @@
+{
+    "name": "xpBot",
+    "version": "1.0.0",
+    "description": "A simple xp bot",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "keywords": [
+        "xp"
+    ],
+    "author": "neil",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
